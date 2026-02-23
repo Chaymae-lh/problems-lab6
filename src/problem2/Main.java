@@ -1,4 +1,4 @@
-package Problem_2;
+package problem2;
 
 public class Main {
 
@@ -18,3 +18,4 @@ public class Main {
         bank.printStatement("Ali");
     }
 }
+
